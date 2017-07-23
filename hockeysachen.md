@@ -25,7 +25,7 @@ Anfang der Saison
 ---------------
 
 * Wer vom Verein ist da, um bei Alarmanlage, Sprinkleranlage, Schlüssel, Material zu helfen? 
-* Schiedrichter klar?
+* Schiedsrichter klar?
 * Unterlagen für Turnierleitung?
 * Erste-Hilfe-Kasten vollständig? Kühlpads?
 * Absprache mit anderen Teams, die ebenfalls Heimspiel haben am Wochenende
