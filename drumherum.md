@@ -26,22 +26,33 @@ Hier geht es nur um das drumherum.
 - [ ] Haben wir alle Schlüssel, die wir brauchen - mindestens 2h vor Spielbeginn?
 - [ ] Pfandregelung geklärt? Allen Helfern mitteilen
 - [ ] Preisliste ausdrucken und in Klarsichthülle stecken.
+- [ ] Einweisung / Info für alle Helfer - Preise, Pfand, Küche, Mülltrennung...
+- [ ] Wann wollen wir was verkaufen? Würstchen eher mittags, Kuchen nachmittags, Kaffee ständig... Auf die Liste für alle Helfer!
 
-# Am Tag selbst
-## 2h vorher
+## Am Tag selbst
+### 2h vorher
 - [ ] Aufschließen
 - [ ] Kaffeemaschine starten
 - [ ] Tische aufstellen für Verkauf - Schatten?
 
-## 1h vorher
+### 1h vorher
 - [ ] Brötchen & Brezeln schmieren. Nicht alles - ungefähr 30%
 - [ ] Kuchen vorbereiten
 - [ ] Verkaufsstand klar machen und besetzen. Kasse
 
-## Währenddessen
+### Währenddessen
 - [ ] Mannschaft immer mal wieder zum Müll / Leergutsammeln schicken. Das ist ihr Turnier!
 - [ ] Brezeln, Brötchen nachschmieren? Es sollten immer 20-30 Dinge noch fertig sein. Gegen Ende natürlich weniger...
 - [ ] Müssen noch Getränke nachgekauft werden? Oder anderes?
 - [ ] Wo wird das Geld aus der Kasse verstaut? Oder bleibt alles da drin während des Turniers
 
+### Gegen Ende
+- [ ] Schlüsselperson kontaktieren für ungefähres Ende
+- [ ] Kuchen, Brezeln "en gros" verkaufen für die Heimfahrt der Teams
+- [ ] Reste an Helfer verteilen oder für den nächsten Spieltag dem nachfolgenden Team aushändigen
+- [ ] Tische reinigen, wegstellen
+- [ ] Küche dauert am längsten und braucht am meisten Übersicht
+- [ ] Geschirrhandtücher und Lappen zum Waschen mitnehmen
+- [ ] Beschädigungen dem Verein melden
+- [ ] Feedback der Helfer einsammeln
 
